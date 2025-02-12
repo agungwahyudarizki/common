@@ -13,5 +13,10 @@
             "email": "agungwahyudarizki@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "php": "*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^11.5"
+    }
 }
