@@ -1,5 +1,7 @@
 <?php
 
+namespace NgZki\Common\Error;
+
 class NotAuthorizedError extends CustomError {
     public int $statusCode = 401;
     public $message;

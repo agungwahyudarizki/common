@@ -1,5 +1,7 @@
 <?php
 
+namespace NgZki\Common\Error;
+
 class NotFoundError extends CustomError {
     public int $statusCode = 404;
     public $message;

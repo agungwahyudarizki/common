@@ -1,5 +1,7 @@
 <?php
 
+namespace NgZki\Common\Error;
+
 use Exception;
 
 class ErrorMessage {

@@ -1,5 +1,7 @@
 <?php
 
+namespace NgZki\Common\Error;
+
 class BadRequestError extends CustomError {
     public int $statusCode = 400;
 

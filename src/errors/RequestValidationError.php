@@ -1,5 +1,7 @@
 <?php
 
+namespace NgZki\Common\Error;
+
 class RequestValidationError extends CustomError {
     public int $statusCode = 400;
 
