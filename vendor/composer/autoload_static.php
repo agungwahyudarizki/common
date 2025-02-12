@@ -18,6 +18,7 @@ class ComposerStaticInitab3910f906a51db17e562916d5475d9a
         ),
         'N' => 
         array (
+            'Ngzki\\Common\\Error\\' => 19,
             'Ngzki\\Common\\' => 13,
         ),
         'D' => 
@@ -30,6 +31,10 @@ class ComposerStaticInitab3910f906a51db17e562916d5475d9a
         'PhpParser\\' => 
         array (
             0 => __DIR__ . '/..' . '/nikic/php-parser/lib/PhpParser',
+        ),
+        'Ngzki\\Common\\Error\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/src/error',
         ),
         'Ngzki\\Common\\' => 
         array (
