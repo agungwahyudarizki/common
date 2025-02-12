@@ -1,0 +1,17 @@
+{
+    "name": "ngzki/common",
+    "description": "Common Packages",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Ngzki\\Common\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Agung Wahyuda Rizki",
+            "email": "agungwahyudarizki@gmail.com"
+        }
+    ],
+    "require": {}
+}
